@@ -3,13 +3,13 @@
 
 Project Name: **GenA11yHelper**
 
-Group Name: **TBD**
+Group Name: PromptPilot
 
 Main Participant Name: **Yassine Sami**
 
 Team Participant Names: 
 
-Mihir Soni,Dondrel Samuels
+Mihir Soni, Dondre Samuels
 
 --------------------------------------------
 
@@ -19,7 +19,7 @@ Yassine Sami: XXXXXXXXXXX
 
 Mihir Soni: XXXXXXXXXXX 
 
-Dondrel Samuels: XXXXXXXXXXX
+Dondre Samuels: XXXXXXXXXXX
 
 ### For Credit details please Contact administrator on Slack
 
